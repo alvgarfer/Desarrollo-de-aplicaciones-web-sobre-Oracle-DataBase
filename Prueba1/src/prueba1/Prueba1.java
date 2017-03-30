@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Prueba1
-{     
+{     /*
     public static void main(String[] args)
     { 
         int base = 0;
@@ -35,6 +35,6 @@ public class Prueba1
                 } 
                     System.out.print('\n');  
         } 
-    } 
+    } */
 }
 
